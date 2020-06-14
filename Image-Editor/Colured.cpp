@@ -1,12 +1,3 @@
-// FCI – Programming 1 – 2018 - Assignment 4
-// Program Name: CS112-2018-2nd –G13&14-20170343-20170364-20170341-A4.cpp
-// Last Modification Date: 29/03/2018
-// Author1 and ID and Group: Abdelrahman Nasr Abdelsalam Ali    20170343  G13
-// Author2 and ID and Group: Yousef Osama Sayed Famhi           20170341  G13
-// Author2 and ID and Group: Mohamed Ahmed Abdelnaby   	        20170364  G14
-// Teaching Assistant: Mohamed Atta - Ibrahim Zeidan
-// Purpose:  image processing software.
-// Bonus software
 
 #include <iostream>
 #include <cstring>
